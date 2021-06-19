@@ -18,7 +18,7 @@ Installation
 ------------
 1. Modify policy security settings. Run the command below:
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-
+2. Install the following module: Install-Module -Name MSOnline
 
 Future Work
 -----------
