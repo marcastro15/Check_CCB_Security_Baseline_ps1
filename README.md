@@ -16,6 +16,8 @@ Required Knowledge
 
 Installation
 ------------
+1. Modify policy security settings. Run the command below:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 
 Future Work
