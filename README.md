@@ -13,6 +13,7 @@ During the Cybersecurity Assessment Process, there are basics to perform spot ch
 2. Check MFA
 3. Check the OS the last time it was updated.
 4. Check the storage devices to make sure it's encrypted
+5. Get hot fix - Note: Don't update vendors computer. Just check its latest update it complies with security policy in place.
 
 Required Knowledge
 ------------------
