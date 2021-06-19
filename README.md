@@ -1,5 +1,6 @@
 # Check_CCB_Security_Baseline_ps1
-CCB Security Control Board Devices - Cyber Security Assessment
+CCB Security Control Board Devices - Cyber Security Assessment (CONTROL, PROTECT, MONITOR)
+GOAL: Uphold Baseline Configuration Security
 
 Introduction
 ------------
