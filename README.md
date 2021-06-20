@@ -37,3 +37,4 @@ F5 if you're using "Windows Powershell ISE"
 Future Work
 -----------
 NIST 800-171A framework may continue to evolve to different versions, so it's necessary to continue to update the scripts. Luckly, it does not change often. This program only probes local group. It could be expanded to check for domain group and Active Directory and the 365 cloud services. Cybersecurity Assessment is vital to control, protect, and monitor government's data housed in the vendors' facility. Government data means the diagrams and documents to construct products for DoD that do not have classification.
+
