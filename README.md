@@ -9,11 +9,13 @@ Conducting Cybersecurity assessment from network devices, systems, mobile, and e
 Features
 --------
 During the Cybersecurity Assessment Process, there are basics to perform spot check if the vendors are telling the truth, not just presenting what you need to see. The following features are essential to conduct independent cybersecurity check of the vendors. You don't want to do this manually, but create a script for the vendor to run. It is preferably scripts for everyone to see to ensure codes have no malicious intent. 
-1. Check Devices
+1. Check Installed Devices
 2. Check MFA
 3. Check the OS the last time it was updated.
 4. Check the storage devices to make sure it's encrypted
 5. Get hot fix - Note: Don't update vendors computer. Just check its latest update it complies with security policy in place.
+6. Check logs, retention, turn on
+7. Check Password security settings
 
 Required Knowledge
 ------------------
